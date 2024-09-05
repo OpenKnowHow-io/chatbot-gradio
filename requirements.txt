@@ -1,0 +1,4 @@
+transformers
+gradio
+python-dotenv
+accelerate
