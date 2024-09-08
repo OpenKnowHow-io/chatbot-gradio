@@ -2,8 +2,18 @@
 
 ![Description of the image](./img-description.png)
 
+## Créer un environnement virtuel
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
 ## Install required packages
-`pip -r requirements.txt`
+```bash
+pip -r requirements.txt
+```
 
 ## How to use
-`python run app.py`
+```bash
+`python run app.py
+```
