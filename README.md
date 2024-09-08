@@ -10,7 +10,7 @@ source .venv/bin/activate
 
 ## Install required packages
 ```bash
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## How to use
