@@ -15,5 +15,5 @@ pip -r requirements.txt
 
 ## How to use
 ```bash
-python run app.py
+python app.py
 ```
